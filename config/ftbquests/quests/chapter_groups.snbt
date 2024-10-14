@@ -1,0 +1,12 @@
+{
+	chapter_groups: [
+		{ id: "0D999F51994257E3", title: "整合包基础及机制修改" }
+		{ id: "34D7FF136704A3FB", title: "【主线】血腥降临" }
+		{ id: "2F7DE8BA8142CD36", title: "【主线】诡异生物" }
+		{ id: "16E3EB28CE44773E", title: "【主线】长夜无明" }
+		{ id: "561E85478811F11D", title: "【主线】重整旗鼓" }
+		{ id: "5A92A2B4EFA8D058", title: "【主线】曙光将至" }
+		{ id: "366E373EC04DC528", title: "【主线】新的开始" }
+		{ id: "7F81FC9A09B51BD4", title: "物品商店" }
+	]
+}

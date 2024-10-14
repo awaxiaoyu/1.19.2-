@@ -1,0 +1,80 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "awa_xiaoyu",
+      "uniqueId": "da0866e4-3b22-405f-9188-0e119ae36171"
+    },
+    "time": 1727784149761,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/kpUMoxixj7"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "awa_xiaoyu",
+      "uniqueId": "da0866e4-3b22-405f-9188-0e119ae36171"
+    },
+    "time": 1727779906953,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/jSJnYAYTVc"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "awa_xiaoyu",
+      "uniqueId": "da0866e4-3b22-405f-9188-0e119ae36171"
+    },
+    "time": 1727779530550,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/HAfNErLlAO"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "awa_xiaoyu",
+      "uniqueId": "da0866e4-3b22-405f-9188-0e119ae36171"
+    },
+    "time": 1727779466945,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/P1F1U8FlDe"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "awa_xiaoyu",
+      "uniqueId": "da0866e4-3b22-405f-9188-0e119ae36171"
+    },
+    "time": 1727779387405,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/SzRUkwnGgD"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "awa_xiaoyu",
+      "uniqueId": "da0866e4-3b22-405f-9188-0e119ae36171"
+    },
+    "time": 1727092185527,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/VaE5cdnU0r"
+    }
+  }
+]

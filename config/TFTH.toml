@@ -1,0 +1,7 @@
+#The number of ticks(1 second = 20 ticks) before Flesh Incubator Stage 0 to evolution
+#Range: > 1
+ticksBeforeTransform = 12000
+#The number of objects needed to spawn a Flesh Incubator Stage 0 in the world
+#Range: > 1
+requiredEntitiesForSpawn = 6
+

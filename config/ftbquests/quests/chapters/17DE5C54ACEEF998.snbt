@@ -1,0 +1,40 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "17DE5C54ACEEF998"
+	group: "0D999F51994257E3"
+	id: "17DE5C54ACEEF998"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		description: [
+			"前排提示：本整合包带有轻度血腥、轻度恐怖、虚构剧情元素，若您无法接受，请退出该整合包"
+			""
+			"你是否想过惊变与休闲这两个词能用于描述同一个整合包？你是否幻想过亲手终结灾难并修复这个满目疮痍的世界？或是在拯救世界后卸甲归田、隐姓埋名？亦或是踏上新的旅程，征服诸天万界？现在，轮到你的表演了！"
+		]
+		id: "1170E511A60FCED1"
+		rewards: [{
+			id: "0D70C87CC3F62EA9"
+			item: {
+				Count: 1b
+				id: "minecraft:written_book"
+				tag: {
+					author: "awa_xiaoyu"
+					pages: ["{\"text\":\"§l前传§r\\n\\n公元3024年，我们所在的实验室发生了病毒泄露，随后，变异的恐怖丧尸与血腥生物占领了这里，我们拼尽全力逃离了这个该死的地方，乘坐组织最新的火箭来到了一个新的星球，这里似乎没有丧尸和血腥生物了，一切都是那么美好且祥和§4§l......吗？\"}"]
+					resolved: 1b
+					title: "前传"
+				}
+			}
+			type: "item"
+		}]
+		subtitle: "快速了解本整合包"
+		tasks: [{
+			id: "56E3AAE6ACF90D7E"
+			title: "介绍"
+			type: "checkmark"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "介绍"
+}

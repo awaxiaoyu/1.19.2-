@@ -1,0 +1,83 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "6E2582E7C765DB41"
+	group: "0D999F51994257E3"
+	icon: "the_flesh_that_hates:flesh_pig_spawn_egg"
+	id: "6E2582E7C765DB41"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"建议单人游玩时选择普通难度，多人游玩时选择困难难度"
+				""
+				"至于简单难度，是为了手残党而设计的模式，而死寂难度，是为那些想要挑战自己的玩家而设计，无论如何，这两种难度都会损失一部分该整合包的乐趣"
+			]
+			id: "3A35F82F6A0C7CF9"
+			subtitle: "不同的难度适合不同的玩家"
+			tasks: [{
+				id: "4EA6A7CCBDB39937"
+				title: "该整合包提供了不同的难度供玩家选择"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3A35F82F6A0C7CF9"]
+			id: "4CE25E766E63AC07"
+			tags: ["difficulty"]
+			tasks: [{
+				disable_toast: true
+				icon: "minecraft:lime_wool"
+				id: "58B8FF88DCF63232"
+				tags: ["difficulty"]
+				title: "简单"
+				type: "custom"
+			}]
+			x: -4.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["3A35F82F6A0C7CF9"]
+			icon: "minecraft:light_blue_wool"
+			id: "6EBCF37706D980E5"
+			tags: ["difficulty"]
+			tasks: [{
+				id: "0F461914BB34A123"
+				title: "普通"
+				type: "custom"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["3A35F82F6A0C7CF9"]
+			icon: "minecraft:yellow_wool"
+			id: "690094966DC3FDC9"
+			tags: ["difficulty"]
+			tasks: [{
+				id: "1D4D9AC213417CE5"
+				title: "困难"
+				type: "custom"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["3A35F82F6A0C7CF9"]
+			icon: "minecraft:red_wool"
+			id: "25F54022382375A4"
+			tags: ["difficulty"]
+			tasks: [{
+				id: "66C73C1D852C7E64"
+				title: "死寂"
+				type: "custom"
+			}]
+			x: 4.5d
+			y: 1.5d
+		}
+	]
+	title: "难度选择"
+}
